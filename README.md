@@ -42,3 +42,22 @@ uv run adk web app --host 127.0.0.1 --port 8084
 ```
 Access the interface in your browser:
 *   **Dev UI:** `http://127.0.0.1:8084/dev-ui/?app=app`
+
+---
+
+## 👤 Author & Featured Projects
+
+### Sathiyamoorthi K (Ksmashhero)
+*B.Tech Information Technology Student (2027 Batch) | Aspiring Software Engineer & AI Developer*
+
+*   🌐 **LinkedIn:** [Sathiyamoorthi K](https://www.linkedin.com/in/sathiyamoorthi-k-336a79307/)
+*   💻 **GitHub:** [@Ksmashhero06](https://github.com/Ksmashhero06/)
+*   📸 **Instagram:** [@kkssathiyamoorthi06](https://www.instagram.com/kkssathiyamoorthi06/)
+
+---
+
+### 🇮🇳 Featured Project: India's Voice of Justice
+*   **Repository Link:** [Ksmashhero06/India-s-Voice-of-Justice](https://github.com/Ksmashhero06/India-s-Voice-of-Justice)
+*   🏆 **Tamil Nadu State-Level Selection (Niralthiruvizha 3.0 / Villupuram Cohort)**: Selected and enrolled in the Wadhwani Foundation Learning & Entrepreneurship program.
+*   **Overview:** An AI-powered multilingual legal assistance platform designed to simplify access to legal information for Indian citizens. Uses Retrieval-Augmented Generation (RAG), FastAPI, React, FAISS vector search, HuggingFace multilingual embeddings, and Google Gemini AI to provide structured legal guidance, complaint drafting, and legal awareness in multiple Indian languages.
+
