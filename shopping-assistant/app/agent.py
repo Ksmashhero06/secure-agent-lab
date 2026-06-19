@@ -190,4 +190,4 @@ root_workflow = Workflow(
 
 root_agent = root_workflow
 
-app = App(name="shopping_assistant", root_agent=root_workflow)
+app = App(name="app", root_agent=root_workflow)
